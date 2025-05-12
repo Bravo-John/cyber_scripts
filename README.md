@@ -6,6 +6,6 @@ Ce controle continue consistait a la creation d'un projet git sur le theme de la
 Les Membres du groupes :
   1. John Bravo
   2. Mpah Brayan
-  3. Enama Justion
+  3. Enama Justin
   4. Boukari Rayan
   5. Kemtchou Tresor
